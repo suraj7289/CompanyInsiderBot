@@ -7,7 +7,7 @@ This is a chatbot designed to analyze multiple annual reports provided by the us
  
 To install the chatbot, follow these steps:
 - Clone the repository to your local machine
-- Install the required dependencies by running pip install -r requirements.txt
+- Install the required dependencies by running pip install -r requirement.txt
 - Run the chatbot by executing streamlit run chatbot.py
 
 # Usage
